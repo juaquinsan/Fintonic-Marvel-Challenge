@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fintonic Marvel Challenge</string>
+
+    <!-- Main Activity -->
+    <string name="msgNoItems">No characters to show, please try again or check your internet connection</string>
+    <string name="moreInfoString">More information</string>
+    <string name="imageDescription">Character thumbnail</string>
+
+    <!-- Detail Activity -->
+    <string name="characterInformationString">Character information</string>
+    <string name="comicString">Comics:</string>
+    <string name="seriesString">Series:</string>
+    <string name="storiesString">Stories:</string>
+    <string name="errorGetCharacterInfo">No info to show, please try again or check your internet connection</string>
+</resources>
